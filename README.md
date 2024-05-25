@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaymantri&label=Profile%20views&color=0e75b6&style=flat" alt="udaymantri" /> </p>
 
-- 🔭 I have two year experience as a Analyst **HR Analytics**
+- 🔭 I have two year experience as a Analyst
 
 - 🌱 I’m currently learning **Power Bi, Tableau, MySQL, Advanced Excel**
 
-- 💬 Ask me about **About Above Tools**
+- 💬 Ask me about **Above Tools**
 
 - 📫 How to reach me **udaymantri2020@gmail.com**
 
