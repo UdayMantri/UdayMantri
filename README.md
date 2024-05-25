@@ -1,3 +1,7 @@
+
+<body background="Data_Analyst.jpg">
+<h1 align="center">Welcome to my Data Analyst Portfolio</h1>
+
 <h1 align="center">Hi 👋, I'm Uday Mantri</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -8,7 +12,7 @@
 
 - 🌱 I’m currently learning **Power Bi, Tableau, MySQL, Advanced Excel**
 
-- 💬 Ask me about **Above Tools**
+- 💬 Ask me about **About Above Tools**
 
 - 📫 How to reach me **udaymantri2020@gmail.com**
 
