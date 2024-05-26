@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Power Bi, Tableau, MySQL, Advanced Excel**
 
-- 💬 Ask me about **About Above Tools**
+- 💬 Ask me about ** Above Tools **
 
 - 📫 How to reach me **udaymantri2020@gmail.com**
 
